@@ -1,5 +1,5 @@
-# Dashboard Note
-WordPress Plugin — This plugin adds a simple, editable note widget to the WordPress admin dashboard to display custom documentation and production notes. It is ideal for reference information about CSS classes, dependencies, resources, production details, and other important data related to theme or WordPress installation.
+# WordPress Plugin - Simple Dashboard Note
+Enhance your WordPress admin dashboard with a simple, editable note widget. This plugin is perfect for providing theme or installation references, serving as a reminder for your future self, or acting as a guide for other site editors. Use it to document CSS classes, dependencies, resources, production details, and other important information related to your theme or WordPress installation—all conveniently accessible within your dashboard.
 
 ## Features
 
@@ -110,7 +110,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Acknowledgments
 
-- Created with the help of ChatGPT 
+- Created with the help of ChatGPT o1-preview
 
 
 *This README provides all the necessary information to understand, install, and use the Dashboard Note plugin effectively. Feel free to customize it further to suit your needs.*
