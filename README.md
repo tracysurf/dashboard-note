@@ -103,17 +103,6 @@ Contributions are welcome! Please follow these steps:
    git push origin feature/your-feature-name
    ```
 
-7. **Open a Pull Request:**
-
-   - Go to your fork on GitHub and click the **Compare & pull request** button.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Support
-
-If you have any questions or need assistance, please open an issue in the repository or contact the author.
 
 ## Changelog
 
